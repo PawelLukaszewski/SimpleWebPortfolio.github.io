@@ -1,5 +1,5 @@
 # SimpleWebPortfolio.github.io
-> SimpleWebPortfolio is a simple website.
+SimpleWebPortfolio is a simple website.
 
 ## Table of contents
 * [General info](#general-info)
