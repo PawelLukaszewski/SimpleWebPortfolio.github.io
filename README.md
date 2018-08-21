@@ -1,7 +1,5 @@
 # SimpleWebPortfolio.github.io
-
-
-> ReservationApp is a simple console application.
+> SimpleWebPortfolio is a simple website.
 
 ## Table of contents
 * [General info](#general-info)
