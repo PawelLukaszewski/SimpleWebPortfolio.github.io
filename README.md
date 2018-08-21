@@ -1,4 +1,4 @@
-# SimpleWebPortfolio.github.io
+# SimpleWebPortfolio
 SimpleWebPortfolio is a simple website.
 
 ## Table of contents
