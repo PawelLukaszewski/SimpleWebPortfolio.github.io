@@ -3,7 +3,7 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Website](#Website)
+* [Website](#website)
 * [Technologies](#technologies)
 * [Status](#status)
 * [Contact](#contact)
